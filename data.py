@@ -1,2 +1,2 @@
-hello is ciao im my language
+ciao is hello in English
 # File with functions for loading data
